@@ -1,2 +1,2 @@
-# HR_Analystic_Project
+# HR_Analytics_Project
 
